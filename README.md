@@ -39,7 +39,7 @@ Once the server is running, you can access the endpoints by making HTTP requests
 
 ## Testing instructions
 
-To test the application, you can use Postman. Simply import the collection from the local file: `Cygni_RPS_API.postman_collection.json` into your Postman environment. This will create a collection with all the endpoints and sample requests. Body data is included in the collection, but can be modified to test different scenarios.
+To test the application, you can use Postman. Simply import the collection from the local file: `RPS_API.postman_collection.json` into your Postman environment. This will create a collection with all the endpoints and sample requests. Body data is included in the collection, but can be modified to test different scenarios.
 
 Alternatively, the following instructions can be used to run the API using curl.
 
